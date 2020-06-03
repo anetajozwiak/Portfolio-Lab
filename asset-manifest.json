@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-lab/static/css/main.9e52ac73.chunk.css",
+    "main.js": "/portfolio-lab/static/js/main.fdac51a2.chunk.js",
+    "main.js.map": "/portfolio-lab/static/js/main.fdac51a2.chunk.js.map",
+    "runtime-main.js": "/portfolio-lab/static/js/runtime-main.07616303.js",
+    "runtime-main.js.map": "/portfolio-lab/static/js/runtime-main.07616303.js.map",
+    "static/js/2.0bb8c28d.chunk.js": "/portfolio-lab/static/js/2.0bb8c28d.chunk.js",
+    "static/js/2.0bb8c28d.chunk.js.map": "/portfolio-lab/static/js/2.0bb8c28d.chunk.js.map",
+    "index.html": "/portfolio-lab/index.html",
+    "precache-manifest.8fea45c5a6ea024f782742294166b7bb.js": "/portfolio-lab/precache-manifest.8fea45c5a6ea024f782742294166b7bb.js",
+    "service-worker.js": "/portfolio-lab/service-worker.js",
+    "static/css/main.9e52ac73.chunk.css.map": "/portfolio-lab/static/css/main.9e52ac73.chunk.css.map",
+    "static/js/2.0bb8c28d.chunk.js.LICENSE.txt": "/portfolio-lab/static/js/2.0bb8c28d.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/portfolio-lab/static/media/Signature.e54cfcfc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07616303.js",
+    "static/js/2.0bb8c28d.chunk.js",
+    "static/css/main.9e52ac73.chunk.css",
+    "static/js/main.fdac51a2.chunk.js"
+  ]
+}
