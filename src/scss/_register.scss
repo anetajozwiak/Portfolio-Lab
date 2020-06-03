@@ -1,0 +1,119 @@
+.registerText {
+    top: 0;
+    left: 30px;
+    width: 208px;
+    height: 55px;
+    text-align: center;
+    font-size: 40px;
+    font-family: $font-base;
+    letter-spacing: -0.8px;
+    color: #3C3C3C;
+    opacity: 1;
+    position: absolute;
+}
+
+.registerRectangleForm {
+    top: 419px;
+    left: 683px;
+    width: 499px;
+    height: 418px;
+    opacity: 1;
+    position: absolute;
+}
+
+.registerForm {
+    top: 0;
+    left: 53.79px;
+    width: 384px;
+    height: 328px;
+    opacity: 1;
+    position: absolute;
+    background: #F0F1F1 0% 0% no-repeat padding-box;
+}
+
+.loginPassword2 {
+    top: 227px;
+    left: 67px;
+    width: 250px;
+    height: 61px;
+    opacity: 1;
+    border-bottom: 1px solid #707070;
+    position: absolute;
+}
+
+.labelPassword2 {
+    top: 0;
+    left: 0;
+    width: 109px;
+    height: 22px;
+    font-size: 16px;
+    font-family: $font-base;
+    letter-spacing: 0;
+    color: #3C3C3C;
+    opacity: 1;
+    position: absolute;
+}
+
+.registerLogin {
+    top: 375px;
+    left: 0;
+    width: 117px;
+    height: 50px;
+    font-size: 18px;
+    font-family: $font-base;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    background: 0;
+    outline: 0;
+    border: 0;
+}
+
+.registerLogin:hover {
+    border: 0.75px solid #3C3C3C;
+}
+
+.registerRegister {
+    top: 375px;
+    left: 337px;
+    width: 117px;
+    height: 50px;
+    font-size: 18px;
+    font-family: $font-base;
+    letter-spacing: 0;
+    color: #000000;
+    opacity: 1;
+    position: absolute;
+    background: 0;
+    border: 0;
+    outline: 0;
+}
+
+.registerRegister:hover {
+    border: 0.75px solid #3C3C3C;
+}
+
+.password2 {
+    top: 26px;
+    left: 0;
+    width: 250px;
+    height: 32px;
+    font-size: 16px;
+    font-family: $font-base;
+    letter-spacing: 0;
+    color: #3C3C3C;
+    position: absolute;
+    border: 0;
+    background: #F0F1F1
+}
+
+.errorPass2 {
+    margin-top: 70px;
+    width: 250px;
+    height: 32px;
+    font-size: 12px;
+    font-family: $font-base;
+    color: red;
+    font-weight: bold;
+}
